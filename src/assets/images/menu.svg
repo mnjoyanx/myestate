@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27" height="21" viewBox="0 0 27 21">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#100f0f;stroke-linecap:round;stroke-width:3px}
+        </style>
+    </defs>
+    <g id="Burger_Menu" transform="translate(32.5 -37.5)">
+        <path id="Path_1575" d="M0 0h24" class="cls-1" transform="translate(-31 39)"/>
+        <path id="Path_1576" d="M0 0h24" class="cls-1" transform="translate(-31 48)"/>
+        <path id="Path_1577" d="M0 0h24" class="cls-1" transform="translate(-31 57)"/>
+    </g>
+</svg>

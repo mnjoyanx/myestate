@@ -1,0 +1,48 @@
+{
+  "nav_search_placeholder"         : "Find city, address, name",
+  "login_title"                    : "Login",
+  "register_title"                 : "Register",
+  "or_text"                        : "or",
+  "email_text"                     : "Email",
+  "password_text"                  : "Password",
+  "remember_me"                    : "Remember",
+  "login_text"                     : "Login",
+  "forgot_password"                : "Forgot password?",
+  "repeat_password_text"           : "Repeat password",
+  "user_type_text"                 : "User Type",
+  "agree_text"                     : "Agree with",
+  "error_invalid_email_text"       : "Invalid Email",
+  "error_minlength_password_text"  : "Password should be minimum 8 characters",
+  "error_diff_passwords_text"      : "Password and confirm password does not match",
+  "full_name_text"                 : "Name and surname",
+  "personal_page_text"             : "Personal page",
+  "photo"                          : "Photo",
+  "edit"                           : "Edit",
+  "full_name"                      : "Full Name",
+  "for_example"                    : "For example",
+  "account_type"                   : "Account type",
+  "ac_type"                        : "Individual",
+  "change"                         : "Change",
+  "tel_number"                     : "Phone number",
+  "remove_account"                 : "Delete personal page",
+  "save"                           : "Save",
+  "photoUpload": {
+    "hint": "lick or drag the file here to upload",
+    "loading": "Uploading…",
+    "noSupported": "Browser is not supported, please use IE10+ or other browsers",
+    "success": "Upload success",
+    "fail": "Upload failed",
+    "preview": "Preview",
+    "btn": {
+      "off": "Cancel",
+      "close": "Close",
+      "back": "Back",
+      "save": "Save"
+    },
+    "error": {
+      "onlyImg": "Image only",
+      "outOfSize": "Image exceeds size limit: ",
+      "lowestPx": "Image\"s size is too low. Expected at least: "
+    }
+  }
+}

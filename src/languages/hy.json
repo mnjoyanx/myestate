@@ -1,0 +1,49 @@
+{
+  "nav_search_placeholder"         : "Փնտրել քաղաք, հասցե, անուն",
+  "login_title"                    : "Մուտք",
+  "register_title"                 : "Գրանցվել",
+  "or_text"                        : "Կամ",
+  "email_text"                     : "Էլ․հասցե",
+  "password_text"                  : "Գաղտնաբառ",
+  "remember_me"                    : "Հիշել",
+  "login_text"                     : "Մուտք",
+  "forgot_password"                : "Մոռացե՞լ եք գաղտնաբառը",
+  "repeat_password_text"           : "Կրկնել գաղտնաբառը",
+  "user_type_text"                 : "Օգտատիրոջ տեսակը",
+  "agree_text"                     : "Համաձայն եմ",
+  "error_invalid_email_text"       : "Էլ.փոստի սխալ հասցե",
+  "error_minlength_password_text"  : "Գաղտնաբառը պետք է պարունակի առնվազն 8 նիշ",
+  "error_diff_passwords_text"      : "Գաղտնաբառը և գաղտնաբառի կրկնությունը չեն համընկնում",
+  "full_name_text"                 : "Անուն և ազգանուն",
+  "personal_page_text"             : "Անձնական էջ",
+  "photo"                          : "Նկար",
+  "edit"                           : "Խմբագրել",
+  "full_name"                      : "Ամբողջական անունը",
+  "for_example"                    : "Օրինակ",
+  "account_type"                   : "Հաշվի տեսակը",
+  "ac_type"                        : "Անհատ",
+  "change"                         : "Փոխել",
+  "tel_number"                     : "Հեռախոսահամար",
+  "remove_account"                 : "Ջնջել անձնական էջը",
+  "save"                           : "Պահպանել",
+  "photoUpload": {
+    "hint": "Կտտացրեք կամ քաշեք ֆայլը այստեղ վերբեռնելու համար",
+    "loading": "Վերբեռնում…",
+    "noSupported": "Բրաուզերը չի աջակցվում, օգտագործեք IE10 + կամ այլ բրաուզերը",
+    "success": "Վերբեռնման հաջողություն",
+    "fail": "Վերբեռնումը ձախողվեց",
+    "preview": "Նախադիտում",
+    "btn": {
+      "off": "Չեղարկել",
+      "close": "Փակել",
+      "back": "Վերադառնալ",
+      "save": "Պահել"
+    },
+    "error": {
+      "onlyImg": "Միայն պատկեր",
+      "outOfSize": "Պատկերը գերազանցում է չափի սահմանը: ",
+      "lowestPx": "Նկար-ի չափը չափազանց ցածր է: Ակնկալվում է առնվազն: "
+    }
+  }
+
+}
